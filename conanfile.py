@@ -1,5 +1,6 @@
 from conan import ConanFile
 from conan.tools.cmake import CMake
+from conan.tools.files import update_conandata
 from conan.tools.scm import Git
 
 class Test(ConanFile):
