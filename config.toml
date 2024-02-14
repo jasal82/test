@@ -1,0 +1,3 @@
+[module_repos]
+core = "https://github.com/jasal82/core.git"
+python = "https://github.com/jasal82/python.git"
